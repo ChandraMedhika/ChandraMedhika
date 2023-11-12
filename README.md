@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChandraMedhika
-- 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me: IG @chandra.medhika
 
 <!---
